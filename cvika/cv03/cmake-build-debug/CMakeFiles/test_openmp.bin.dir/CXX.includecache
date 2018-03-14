@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Dokumenty/school/PDV/cvika/cv03/test.cpp
+omp.h
+-
+stdio.h
+-
+stdlib.h
+-
+
