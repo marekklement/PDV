@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Dokumenty/school/PDV/cvika/cv05/decompose.cpp
+decompose.h
+/home/marek/Dokumenty/school/PDV/cvika/cv05/decompose.h
+cmath
+-
+atomic
+-
+iostream
+-
+limits
+-
+omp.h
+-
+
+/home/marek/Dokumenty/school/PDV/cvika/cv05/decompose.h
+functional
+-
+vector
+-
+
+/home/marek/Dokumenty/school/PDV/cvika/cv05/main.cpp
+iostream
+-
+vector
+-
+functional
+-
+chrono
+-
+cmath
+-
+omp.h
+-
+decompose.h
+/home/marek/Dokumenty/school/PDV/cvika/cv05/decompose.h
+

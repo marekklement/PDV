@@ -1,0 +1,4 @@
+/home/marek/Dokumenty/school/PDV/cvika/cv05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marek/Dokumenty/school/PDV/cvika/cv05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marek/Dokumenty/school/PDV/cvika/cv05/cmake-build-debug/CMakeFiles/main.dir
+/home/marek/Dokumenty/school/PDV/cvika/cv05/cmake-build-debug/CMakeFiles/main.bin.dir
