@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -Wall -O2   CMakeFiles/sorting.dir/sorting.cpp.o  -o sorting 

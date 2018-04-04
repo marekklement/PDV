@@ -1,0 +1,4 @@
+/home/marek/Documents/school/PDV/cvika/cv07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marek/Documents/school/PDV/cvika/cv07/cmake-build-debug/CMakeFiles/prefixsum.dir
+/home/marek/Documents/school/PDV/cvika/cv07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marek/Documents/school/PDV/cvika/cv07/cmake-build-debug/CMakeFiles/sorting.dir

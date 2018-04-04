@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -Wall -O2   CMakeFiles/prefixsum.dir/_prefixsum/prefixsum.cpp.o  -o prefixsum 

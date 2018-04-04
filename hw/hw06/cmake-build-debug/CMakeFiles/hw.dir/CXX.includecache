@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Documents/school/PDV/hw/hw06/_generator/generator.h
+
+/home/marek/Documents/school/PDV/hw/hw06/_tests/test.h
+vector
+-
+
+/home/marek/Documents/school/PDV/hw/hw06/main.cpp
+iostream
+-
+random
+-
+algorithm
+-
+chrono
+-
+_generator/generator.h
+/home/marek/Documents/school/PDV/hw/hw06/_generator/generator.h
+sort.h
+/home/marek/Documents/school/PDV/hw/hw06/sort.h
+_tests/test.h
+/home/marek/Documents/school/PDV/hw/hw06/_tests/test.h
+
+/home/marek/Documents/school/PDV/hw/hw06/sort.cpp
+sort.h
+/home/marek/Documents/school/PDV/hw/hw06/sort.h
+iostream
+-
+
+/home/marek/Documents/school/PDV/hw/hw06/sort.h
+vector
+-
+algorithm
+-
+iostream
+-
+

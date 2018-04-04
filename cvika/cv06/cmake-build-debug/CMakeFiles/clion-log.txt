@@ -1,0 +1,54 @@
+/home/marek/Documents/installers/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/marek/Documents/school/PDV/cvika/cv06
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- broken
+CMake Error at /home/marek/Documents/installers/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"/usr/bin/make" "cmTC_0e463/fast"
+    /usr/bin/make -f CMakeFiles/cmTC_0e463.dir/build.make CMakeFiles/cmTC_0e463.dir/build
+    make[1]: Entering directory '/home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_0e463.dir/testCCompiler.c.o
+    /usr/bin/cc    -o CMakeFiles/cmTC_0e463.dir/testCCompiler.c.o   -c /home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+    Linking C executable cmTC_0e463
+    /home/marek/Documents/installers/clion-2018.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e463.dir/link.txt --verbose=1
+    /usr/bin/cc      CMakeFiles/cmTC_0e463.dir/testCCompiler.c.o  -o cmTC_0e463 
+    /usr/bin/ld: cannot find crt1.o: No such file or directory
+    /usr/bin/ld: cannot find crti.o: No such file or directory
+    /usr/bin/ld: cannot find -lc
+    /usr/bin/ld: cannot find crtn.o: No such file or directory
+    collect2: error: ld returned 1 exit status
+    CMakeFiles/cmTC_0e463.dir/build.make:97: recipe for target 'cmTC_0e463' failed
+    make[1]: *** [cmTC_0e463] Error 1
+    make[1]: Leaving directory '/home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Makefile:126: recipe for target 'cmTC_0e463/fast' failed
+    make: *** [cmTC_0e463/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/marek/Documents/school/PDV/cvika/cv06/cmake-build-debug/CMakeFiles/CMakeError.log".
