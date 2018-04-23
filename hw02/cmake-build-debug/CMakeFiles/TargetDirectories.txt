@@ -1,4 +1,0 @@
-/home/marek/Dokumenty/school/PDV/hw02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/marek/Dokumenty/school/PDV/hw02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/marek/Dokumenty/school/PDV/hw02/cmake-build-debug/CMakeFiles/threadpool.dir
-/home/marek/Dokumenty/school/PDV/hw02/cmake-build-debug/CMakeFiles/threadpool.bin.dir
